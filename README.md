@@ -72,6 +72,8 @@ The problem that I had whas that I forgot to place the bellow code in the void s
 
 pinMode(LED_BUILTIN, OUTPUT);
 
+https://forum.arduino.cc/t/low-seems-to-be-high/456221
+
 ![image](https://user-images.githubusercontent.com/29665951/137134104-f33ca9c2-17db-4f82-bf8c-09cf1781c8b2.png)
 
 
