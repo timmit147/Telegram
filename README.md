@@ -43,7 +43,10 @@ Copy the token and place this in the arduino code.
 
 ![image](https://user-images.githubusercontent.com/29665951/137127528-a14ca39a-6194-4ec3-a656-be29076b40b7.png)
 
-2041577637:AAGLTzysphNyXKW6SxJ5b5LeEmwJx1mUuDQ
+Change the wifi SSID, password and token.
+
+![image](https://user-images.githubusercontent.com/29665951/137127889-ae7478ff-a70d-4ee1-bf68-94fbf1fc3698.png)
+
 
 
 
