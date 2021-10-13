@@ -58,6 +58,27 @@ Step 5 Test code
 
 Connect the arduino to the pc and upload the code.
 
+Check in the serial monitor if connection works. 
+
+![image](https://user-images.githubusercontent.com/29665951/137128856-ef9c0b66-cac7-4c63-a14f-9ed5c3bebe73.png)
+
+I replace the loop code with my own code.
+
+![image](https://user-images.githubusercontent.com/29665951/137133975-35bc07a5-a7e3-40de-8954-74b5c4b6ba3a.png)
+
+
+
+The problem that I had whas that I forgot to place the bellow code in the void setup. This code makes it posible to use our build in led light in your code. 
+
+pinMode(LED_BUILTIN, OUTPUT);
+
+![image](https://user-images.githubusercontent.com/29665951/137134104-f33ca9c2-17db-4f82-bf8c-09cf1781c8b2.png)
+
+
+Second problem that is had was that if I say digitalWrite(LED_BUILTIN, HIGH); the led light goes off and if I say digitalWrite(LED_BUILTIN, LOW); the led light goed on.
+
+Step 6 Change color of led strip.
+
 
 
 
