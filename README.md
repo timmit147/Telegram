@@ -81,6 +81,31 @@ Second problem that is had was that if I say digitalWrite(LED_BUILTIN, HIGH); th
 
 Step 6 Change color of led strip.
 
+I found a website with a simple way to change the colors of your led light.
+
+https://howtomechatronics.com/tutorials/arduino/how-to-control-ws2812b-individually-addressable-leds-using-arduino/
+
+I changed the LED_PIN to D5 and connected my arduino to the led strip and uploaded my code.
+
+I got a error that whas saying that is had to install a libary FastLED.
+
+![image](https://user-images.githubusercontent.com/29665951/137137246-c7ae3a08-bc7c-43a5-88fb-15b3dfaf2078.png)
+
+I uploade my code again and it worked.
+
+image from telfone here =====================
+
+Step 7 Combine led code with telegram code
+
+Code not working becouse i forgot to place FastLED.show(); to initiate the code.
+
+I dit not know how to change all colors on led at the same time and found on the internet how to do that.
+
+https://arduino.stackexchange.com/questions/21948/turning-all-leds-on-fast-led
+
+
+
+
 
 
 
