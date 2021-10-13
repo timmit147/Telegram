@@ -43,9 +43,20 @@ Copy the token and place this in the arduino code.
 
 ![image](https://user-images.githubusercontent.com/29665951/137127528-a14ca39a-6194-4ec3-a656-be29076b40b7.png)
 
+Start the arduino bot by clicking on the top link.
+
+![image](https://user-images.githubusercontent.com/29665951/137128318-8e07667f-971a-4abf-ad9c-2e0c0c845bdf.png)
+
+
+Step 4 change the arduino code
+
 Change the wifi SSID, password and token.
 
 ![image](https://user-images.githubusercontent.com/29665951/137127889-ae7478ff-a70d-4ee1-bf68-94fbf1fc3698.png)
+
+Step 5 Test code
+
+Connect the arduino to the pc and upload the code.
 
 
 
